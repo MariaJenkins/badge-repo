@@ -1,5 +1,16 @@
-# office-scripts (TRAINING / SIMULATION)
+# badge-repo (TRAINING / SIMULATION)
 
-Personal scripts for daily work automation.
+**TRAINING / SIMULATION - NOT REAL**
 
-See office_info.py for contact info.
+ProjectX helper scripts and docs.
+
+## README
+
+ProjectX Scripts
+- deploy.py
+- monitor.py
+- README.md
+
+**BadgeID: 24**
+
+(Used for training exercises only.)
